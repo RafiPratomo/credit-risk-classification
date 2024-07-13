@@ -1,4 +1,3 @@
-```markdown
 # Module 12 Report Template
 
 ## Overview of the Analysis
@@ -35,4 +34,3 @@ The Logistic Regression model demonstrated excellent performance in predicting b
 Given the results, the Logistic Regression model is recommended for predicting loan status due to its high accuracy and balanced performance across both classes. The model's performance is particularly important in financial contexts where accurately identifying high-risk loans is crucial. Therefore, while the model performs exceptionally well overall, its strong recall for high-risk loans ensures that it is effective in identifying most high-risk cases, which is often a critical requirement in financial risk assessment.
 
 Overall, the Logistic Regression model is the best-performing model for this analysis, providing reliable predictions for loan statuses.
-```
